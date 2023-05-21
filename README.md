@@ -1,11 +1,11 @@
 ## Hi, I'm Thales Lobo
 
 <!-- Programing tools and languages -->
-<div id="programming-general" style="display: inline>
+<div id="programming-general" style="display: flex; align-items: center;">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-    <p align ="center "style="color: solid grey;">|</p>
+    <p "style="color: solid grey;">|</p>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,7 +33,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
  
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=8&theme=dracula&exclude_repo=Thales-Lobo"
   />
 </div>
 
