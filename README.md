@@ -32,7 +32,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=8&theme=dracula&exclude_repo=Thales-Lobo"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=6&theme=dracula&exclude_repo=Thales-Lobo"
   />
 </div>
 
