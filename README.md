@@ -1,19 +1,21 @@
 ## Hi, I'm Thales Lobo
 
 <!-- Programing tools and languages -->
-<div id="programming-tools" style="display: inline-block; border-right: 1px solid gray; margin-right: 10px; padding-right: 10px;">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-</div>
+<div style="display: flex;">
+  <div id="programming-tools" style="display: inline-block; border-right: 1px solid gray; margin-right: 10px; padding-right: 10px;">
+    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  </div>
 
-<div id="programming-languages" style="display: inline-block;">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="VHDL" height="30" width="30" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg">
+  <div id="programming-languages" style="display: inline-block;">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+    <img align="center" alt="VHDL" height="30" width="30" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg">
+  </div>
 </div>
 
 <br>
@@ -42,25 +44,25 @@ I enjoy learning and testing new technologies, automate everything that I can, a
 
 <!-- Social networks -->
 <div id="social-networks">
- <span style="padding: 0 15px;">
+ <span style="padding: 0 30px;">
   <a href="https://thales-lobo.github.io/Thales-Lobo/" target="_blank">
    <img alt="CV" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png">
   </a>
  </span>
   
-<span style="padding: 0 15px;">
+<span style="padding: 0 30px;">
  <a href="mailto:thalesloboz@gmail.com">
   <img alt="e-Mail" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
  </a>
 </span>
   
-<span style="padding: 0 15px;">
+<span style="padding: 0 30px;">
  <a href="https://www.linkedin.com/in/thales-lobo/" target="_blank">
   <img alt="LinkedIn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  </a>
 </span>
 
-<span style="padding: 0 15px;">
+<span style="padding: 0 30px;">
  <a href="https://www.instagram.com/thales.lobo_/" target="_blank">
   <img alt="Instagram" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
  </a>
