@@ -11,7 +11,7 @@
     <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="MatLab" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-    <img align="center" alt="VHDL" height="45" width="60" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg">
+    <img align="center" alt="VHDL" height="45" width="45" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/8e/1f/b48e1f2c-cabf-9ace-2c03-71047e2df0fe/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg">
   </div>
 </div>
 
