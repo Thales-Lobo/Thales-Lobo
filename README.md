@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi, I'm Thales Lobo there! 👋
 
 <div>
   <a href="https://github.com/Thales-Lobo">
@@ -8,6 +8,7 @@
   />
   <img 
     height="180em" 
+    width="30em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=7&theme=dracula"
   />
 </div>
