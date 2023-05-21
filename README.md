@@ -16,6 +16,7 @@
 </div>
 
 <br>
+<br>
 
 <!-- Presentation -->
 - I am a student of exact sciences and a technology enthusiast: 
