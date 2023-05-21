@@ -46,7 +46,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
   </a>
  </span>
   
-<span style="padding: 0px 40px 0px 30px;">
+<span style="padding: 0px 40px 0px 10px;">
  <a href="mailto:thalesloboz@gmail.com">
   <img alt="e-Mail" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
  </a>
