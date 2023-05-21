@@ -2,7 +2,7 @@
 
 <!-- Programing tools and languages -->
 <div id="programming-general" style="display: flex; align-items: center;">
-    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
     <img align="center" alt="|" height="40" width="40" src="https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12066.png?itok=Q52xU4Pn">
@@ -40,7 +40,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
 
 <!-- Social networks -->
 <div id="social-networks">
- <span style="padding: 0 30px 0px 40px;">
+ <span style="padding: 0 10px 0px 40px;">
   <a href="https://thales-lobo.github.io/Thales-Lobo/" target="_blank">
    <img alt="CV" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png">
   </a>
