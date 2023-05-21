@@ -2,13 +2,10 @@
 
 <!-- Programing tools and languages -->
 <div id="programming-general" style="display: flex">
-  <div id="programming-tools" style="display: inline-block; border-right: 1px solid gray; margin-right: 10px; padding-right: 10px;">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  </div>
-
-  <div id="programming-languages" style="display: inline-block;">
+    <p style="color: solid grey;">|</p>
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -52,7 +49,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
   
 <span style="padding: 0 30px;">
  <a href="mailto:thalesloboz@gmail.com">
-  <img alt="e-Mail" height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
+  <img alt="e-Mail" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
  </a>
 </span>
   
