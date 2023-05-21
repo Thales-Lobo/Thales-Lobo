@@ -87,8 +87,7 @@ I enjoy learning and testing new technologies, automate everything that I can, a
 
 <span style="padding: 0 15px;">
  <a href="https://www.instagram.com/thales.lobo_/" target="_blank">
-  <img alt="Instagram" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png
-">
+  <img alt="Instagram" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
  </a>
 </span>
 </div>
