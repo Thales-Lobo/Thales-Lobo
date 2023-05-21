@@ -30,7 +30,6 @@ I enjoy learning and testing new technologies, automate everything that I can, a
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=Thales-Lobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
   />
- 
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=8&theme=dracula&exclude_repo=Thales-Lobo"
@@ -41,25 +40,25 @@ I enjoy learning and testing new technologies, automate everything that I can, a
 
 <!-- Social networks -->
 <div id="social-networks">
- <span style="padding: 0 30px;">
+ <span style="padding: 0 30px 0px 40px;">
   <a href="https://thales-lobo.github.io/Thales-Lobo/" target="_blank">
    <img alt="CV" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png">
   </a>
  </span>
   
-<span style="padding: 0 30px;">
+<span style="padding: 0px 40px 0px 30px;">
  <a href="mailto:thalesloboz@gmail.com">
   <img alt="e-Mail" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
  </a>
 </span>
   
-<span style="padding: 0 30px;">
+<span style="padding: 0 40px;">
  <a href="https://www.linkedin.com/in/thales-lobo/" target="_blank">
   <img alt="LinkedIn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  </a>
 </span>
 
-<span style="padding: 0 30px;">
+<span style="padding: 0 40px;">
  <a href="https://www.instagram.com/thales.lobo_/" target="_blank">
   <img alt="Instagram" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
  </a>
