@@ -1,7 +1,7 @@
 ## Hi, I'm Thales Lobo
 
 <!-- Programing tools and languages -->
-<div id="programming-general">
+<div id="programming-general" style="display: flex">
   <div id="programming-tools" style="display: inline-block; border-right: 1px solid gray; margin-right: 10px; padding-right: 10px;">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
