@@ -19,8 +19,8 @@
 
 <!-- Presentation -->
 - I am a student of exact sciences and a technology enthusiast: 
-    <br>🇧🇷 Bachelor of Science: Electrical Engineering - UNESP
-    <br>🇫🇷 Master of Engineering: Software Engineering / Computer Systems Architecture - CentraleSupélec
+    <br>🇧🇷 **Bachelor of Science:** Electrical Engineering - UNESP
+    <br>🇫🇷 **Master of Engineering:** Software Engineering / Computer Systems Architecture - CentraleSupélec
     
 I enjoy learning and testing new technologies, automate everything that I can, and talk nonsense in my free time
 
