@@ -4,9 +4,9 @@ I'm a **Software Engineer** with a background in Electrical Engineering and
 Software/Systems Architecture, currently pursuing a Master's in Computer
 Science.
 
-🇧🇷 **B.S., Electrical Engineering** — UNESP
-🇫🇷 **M.Eng., Software Engineering & Computer Systems Architecture** — CentraleSupélec
-🇧🇷 **M.Sc. in progress, Computer Science** — IME-USP
+- <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Brazil"> **B.S., Electrical Engineering** — UNESP
+- <img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt="France"> **M.Eng., Software Engineering & Computer Systems Architecture** — CentraleSupélec
+- <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Brazil"> **M.Sc. in progress, Computer Science** — IME-USP
 
 I enjoy learning and testing new technologies, automating everything I can,
 and talking nonsense in my free time 🤖
@@ -33,19 +33,7 @@ and talking nonsense in my free time 🤖
 </div>
 
 <br>
-
-<!-- GitHub stats -->
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Thales-Lobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&exclude_repo=Thales-Lobo"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Lobo&layout=compact&langs_count=6&theme=dracula&exclude_repo=Thales-Lobo"
-  />
-</div>
-
+<br>
 <br>
 
 <!-- Social links -->
